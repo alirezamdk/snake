@@ -1,8 +1,12 @@
 # snake
 
+this game written in c++ and for windows
 
-Scores are sorted and save ...
-The game has a configuration part for selecting color, speed and play grund specifications ..
+compile: g++ main.cpp -o snake.exe
 
+TODO:
+convert to crossplatform game
+fix fucking bugs
+etc...
 
-please send the bugs report to alirezamky[at]hotmail.com
+alirezamky[at]hotmail.com
